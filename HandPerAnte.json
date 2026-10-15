@@ -1,0 +1,16 @@
+{
+    "id": "HandPerAnte",
+    "name": "Hand Per Ante",
+    "author": [
+        "NickTG"
+    ],
+    "description": "Your hand size is the ante. One card at Ante 1, two at Ante 2, and it keeps growing in endless.",
+    "prefix": "ntghpa",
+    "main_file": "HandPerAnte.lua",
+    "priority": 0,
+    "badge_colour": "0047AB",
+    "version": "1.0.0",
+    "dependencies": [
+        "Steamodded (>=1.0.0~BETA-1620a)"
+    ]
+}
